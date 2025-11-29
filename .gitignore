@@ -49,7 +49,6 @@ Desktop.ini
 *.pth
 *.ckpt
 
-# Large data files (optional - uncomment if data is too large)
 # data/MNIST/
 # data/asl_data/
 # data/doggy_door_data/
